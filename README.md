@@ -1,8 +1,8 @@
-**KLASIFIKASI KATEGORI BERITA BRITISH BROADCASTING CORPORATION (BBC) MENGGUNAKAN METODE RECURRENT NEURAL NETWORK (RNN) DAN NAIVE BAYES CLASSIFIER**
+**KLASIFIKASI DAN DETEKSI KATEGORI BERITA BRITISH BROADCASTING CORPORATION (BBC) MENGGUNAKAN METODE RECURRENT NEURAL NETWORK (RNN) DAN NAIVE BAYES CLASSIFIER**
 
 
-This project aims to develop a BBC news classification model and compare the performance of two algorithms, namely Recurrent Neural Network (RNN) and Naive Bayes Classifier, in predicting news categories.
+Proyek ini bertujuan untuk mengembangkan model klasifikasi berita BBC dan membandingkan performa dua algoritma, yaitu Recurrent Neural Network (RNN) dan Naive Bayes Classifier, dalam melakukan prediksi kategori berita.
 
-The classification process utilizes the TF-IDF technique for text representation and Singular Value Decomposition (SVD) as a dimensionality reduction step. RNN is used to capture sequential relationships within the text, while Naive Bayes employs a probabilistic approach for classification. The comparison evaluates the accuracy, efficiency, and capability of each method in managing complex news data.
+Proses klasifikasi dilakukan dengan memanfaatkan teknik TF-IDF untuk merepresentasikan teks dan Singular Value Decomposition (SVD) sebagai langkah reduksi dimensi. RNN digunakan untuk menangkap hubungan sekuensial dalam teks, sedangkan Naive Bayes memanfaatkan pendekatan probabilistik untuk klasifikasi. Perbandingan dilakukan untuk mengevaluasi akurasi, efisiensi, dan kemampuan masing-masing metode dalam mengelola data berita yang kompleks.
 
-This project provides insights into the most effective algorithm for automatic text classification, particularly on the BBC news dataset.
+Proyek ini membantu memahami algoritma terbaik untuk klasifikasi teks otomatis, khususnya pada dataset berita BBC.
